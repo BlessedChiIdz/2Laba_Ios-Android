@@ -13,7 +13,8 @@
     "react": "18.2.0",
     "react-native": "0.73.4",
     "react-native-pager-view": "^6.2.3",
-    "react-native-tab-view": "^3.5.2"
+    "react-native-tab-view": "^3.5.2",
+    "react-native-table-component": "^1.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

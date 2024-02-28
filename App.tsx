@@ -9,11 +9,11 @@ import {
 import {TabView, SceneMap} from 'react-native-tab-view';
 import FirstPage from './components/FirstPage';
 import SecondPage from './components/SecondPage';
+import ThirdPage from './components/ThirdPage';
 
 const FirstRoute = () => <FirstPage />;
 const SecondRoute = () => <SecondPage />;
-
-const ThirdRoute = () => <View />;
+const ThirdRoute = () => <ThirdPage />;
 
 export default class TabViewExample extends React.Component<any, any> {
   state = {

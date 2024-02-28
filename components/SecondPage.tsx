@@ -3,7 +3,7 @@ import {Text, FlatList, StyleSheet, View} from 'react-native';
 
 const SecondPage = () => {
   return (
-    <View style={[styles2.container, {backgroundColor: '#673ab7'}]}>
+    <View style={[styles2.container, {backgroundColor: '#8837bb'}]}>
       <FlatList
         data={[
           {key: 'Devin'},
